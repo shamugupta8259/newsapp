@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "NFL Christmas Eve top plays: Cowboys drop Eagles, Steelers edge Raiders - FOX Sports",
+            "description": "Week 16 of the NFL continued with an action-packed Christmas Eve slate. Here are the top plays from Saturday!",
+            "url": "https://www.foxsports.com/stories/nfl/nfl-christmas-eve-top-plays-seahawks-chiefs-bills-bears-more",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/9a056fb4-12.23.22_NFL-Top-Plays_PM_ChristmasEve_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-12-25T04:28:20Z",
+            "content": "Week 16 of the NFL\r\n season continues Saturday with an action-packed slate and we've got you covered with all the must-see moments from around the league. As the playoff race continues to intensify, … [+10794 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Greg Porter",
+            "title": "PM Update: Washington has coldest Christmas Eve afternoon on record; frigid into Sunday, too - The Washington Post",
+            "description": "Some moderation, but still quite cold on Christmas Day",
+            "url": "https://www.washingtonpost.com/weather/2022/12/24/dc-forecast-record-cold-christmas-eve/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VAUQYVDG4FEJZAV4VMOFG2IIEM.jpg&w=1440",
+            "publishedAt": "2022-12-25T03:04:00Z",
+            "content": "Comment on this story\r\nWeve officially had the coldest Christmas Eve day on record for the District. Todays high temperature of 22 degrees beats the previous record of 23 degrees set in 1983, and a g… [+1170 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Faris Tanyos",
+            "title": "5 arrested in fatal shooting of 19-year-old man in Mall of America, police say - CBS News",
+            "description": "The fatal shooting occurred on the first floor of a Nordstrom.",
+            "url": "https://www.cbsnews.com/news/5-arrested-fatal-shooting-mall-of-america-nordstrom-shooting-lockdown-bloomington-minnesota/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/12/24/7931c9d5-cfaa-4c71-bc69-9c67d663e43a/thumbnail/1200x630/bdf459d833f220dabe6bbd5e3b2d7198/ap22358150086687.jpg",
+            "publishedAt": "2022-12-25T02:56:00Z",
+            "content": "Five people were arrested Saturday in connection with the fatal shooting of a 19-year-old man Friday night inside a Nordstrom store at the Mall of America in Bloomington, Minnesota, authorities said.… [+2724 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aya Elamroussi, Jason Hanna, Ray Sanchez",
+            "title": "A powerful winter storm claims at least 22 lives across the US as temperatures plunge, winds howl and power lines fall - CNN",
+            "description": "More than 315,000 homes and businesses nationwide were without power Christmas Eve, thanks to an Arctic blast and winter storm that tore down power lines with destructive winds and heavy snow and dipped temperatures dangerously low -- conditions killing at le…",
+            "url": "https://www.cnn.com/2022/12/24/weather/christmas-arctic-winter-storm-power-outages-saturday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221223171142-16-winter-weather-1223-kentucky.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-25T02:54:00Z",
+            "content": "More than 315,000 homes and businesses nationwide were without power Christmas Eve, thanks to an Arctic blast and winter storm that tore down power lines with destructive winds and heavy snow and dip… [+8879 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ehsan Popalzai, Sahar Akbarzai, Mohammed Tawfeeq",
+            "title": "Taliban orders NGOs to ban female employees from coming to work - CNN",
+            "description": "The Taliban administration in Afghanistan has ordered all local and international non-governmental organizations (NGOs) to stop their female employees from coming to work, according to a letter by the Ministry of Economy sent to all licensed NGOs.",
+            "url": "https://www.cnn.com/2022/12/24/asia/taliban-female-employees-ngos-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221224110236-01-afghan-women-072922-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-25T02:54:00Z",
+            "content": "The Taliban administration in Afghanistan has ordered all local and international non-governmental organizations (NGOs) to stop their female employees from coming to work, according to a letter by th… [+3555 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Noah Gray",
+            "title": "More migrants dropped outside vice president's home in freezing weather on Christmas Eve - CNN",
+            "description": "Several busloads of migrants were dropped off in front of Vice President Kamala Harris' residence in Washington, DC, on Christmas Eve in 18 degree weather late Saturday.",
+            "url": "https://www.cnn.com/2022/12/24/politics/migrants-dropped-off-vice-president-christmas-eve/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221224211607-kamala-harris-0908-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-25T02:53:00Z",
+            "content": "Several busloads of migrants were dropped off in front of Vice President Kamala Harris residence in Washington, DC, on Christmas Eve in 18 degree weather late Saturday. \r\nAn initial two busloads were… [+1345 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Ryan McMorrow, Cheng Leng, Sun Yu, Qianer Liu",
+            "title": "China estimates 250mn people have caught Covid in 20 days - Financial Times",
+            "description": "Figures presented at closed-door meeting are in stark contrast to low official case count",
+            "url": "https://www.ft.com/content/1fb6044a-3050-44d8-b715-80c18ca5c9ab",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffdaa3623-4909-4510-907d-3846002a201e.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-12-25T02:05:44Z",
+            "content": "Chinese officials estimate about 250mn people, or 18 per cent of the population, were infected with Covid-19 in the first 20 days of December, as Beijing abruptly dismantled restrictions that had con… [+3791 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Trump lawyer says Jan. 6 criminal referrals are ‘pretty much worthless’ - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvMzc4Nzc0Ny10cnVtcC1sYXd5ZXItc2F5cy1qYW4tNi1jcmltaW5hbC1yZWZlcnJhbHMtYXJlLXByZXR0eS1tdWNoLXdvcnRobGVzcy_SAXRodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2hvdXNlLzM3ODc3NDctdHJ1bXAtbGF3eWVyLXNheXMtamFuLTYtY3JpbWluYWwtcmVmZXJyYWxzLWFyZS1wcmV0dHktbXVjaC13b3J0aGxlc3MvYW1wLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-25T01:04:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "INSIDER"
+            },
+            "author": "Allana Akhtar",
+            "title": "SuperAger doesn't follow a daily routine, neuroscientist approves - Insider",
+            "description": "\"Changing things up and having some variation helps to keep us on our toes,\" neuroscientist and SuperAgers researcher Emily Rogalski told Insider.",
+            "url": "https://www.insider.com/superager-doesnt-follow-a-daily-routine-neuroscientist-approves-2022-12",
+            "urlToImage": "https://i.insider.com/63924c1b8580f70019f81677?width=1200&format=jpeg",
+            "publishedAt": "2022-12-25T01:00:09Z",
+            "content": "Scientists are studying the behavior of \"SuperAgers\" defined by Northwestern as a rare group of elders who have the brains of people 30 years younger than them to find out how humans can keep their m… [+3846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jonathan Amos - BBC Science Correspondent",
+            "title": "James Webb telescope: Amazing images show the Universe as never before - Yahoo! Voices",
+            "description": "It's a year since the James Webb telescope launched, and we've marvelled at its pictures ever since.",
+            "url": "https://news.yahoo.com/james-webb-telescope-amazing-images-002242001.html",
+            "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/60144d4e9163758aab65369ef35a3d03",
+            "publishedAt": "2022-12-25T00:22:00Z",
+            "content": "The Tarantula Nebula: Only 161,000 light years from Earth, this is a place where thousands of stars were born\r\nIt was the $10bn gift to the world. A machine that would show us our place in the Univer… [+3983 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Elon Musk Warns Against Margin Debt on Risk of Market 'Mass Panic' - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a1befa7c-83ee-11ed-993a-684a4f505558&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMi0yNC9lbG9uLW11c2std2FybnMtYWdhaW5zdC1tYXJnaW4tZGVidC1vbi1tYXNzLXBhbmljLXJpc2s=",
+            "urlToImage": null,
+            "publishedAt": "2022-12-24T23:51:44Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Steelers players, Mike Tomlin show up in Franco Harris jerseys - NBC Sports",
+            "description": "Tonight, the Steelers will retire the number worn by Pittsburgh legend Franco Harris, who died suddenly earlier this week. And the players, along with coach Mike Tomlin, have shown up for work wearing Franco’s iconic 32.It’s a fitting gesture for a man who ep…",
+            "url": "https://profootballtalk.nbcsports.com/2022/12/24/steelers-players-mike-tomlin-show-up-in-franco-harris-jerseys/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/12/USATSI_19678712-e1671925508882.jpg",
+            "publishedAt": "2022-12-24T23:47:00Z",
+            "content": "Tonight, the Steelers will retire the number worn by Pittsburgh legend Franco Harris, who died suddenly earlier this week. And the players, along with coach Mike Tomlin, have shown up for work wearin… [+658 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Parade"
+            },
+            "author": "Sammi Burke",
+            "title": "Lindsay Lohan Shares Rare Selfie With Husband in Front of the Christmas Tree - Yahoo Life",
+            "description": "Lindsay Lohan and her husband, Bader Shammas, shared a rare selfie from in front of the Christmas tree on Instagram, sending holiday wishes to all of her followers.",
+            "url": "https://parade.com/news/lindsay-lohan-husband-christmas-selfie-instagram-photos-2022",
+            "urlToImage": "https://parade.com/.image/t_share/MTk0NjczNTcyNDk5Njk0NzU0/celebrity-sightings-in-new-york-city---november-10-2022.jpg",
+            "publishedAt": "2022-12-24T23:30:00Z",
+            "content": "Lindsay Lohan is positively thriving in her comeback era. \r\nThe former child actor notoriously stepped out of the spotlight for several years, but she recently returned to the forefront with a vengea… [+1401 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Zelensky delivers defiant Christmas message after Russian strikes - BBC",
+            "description": "President Zelensky urges his people to persevere as Russian attacks leave millions without power.",
+            "url": "https://www.bbc.com/news/world-europe-64088046",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6150/production/_128121942_mediaitem128121941.jpg",
+            "publishedAt": "2022-12-24T23:22:51Z",
+            "content": "Ukrainian President Volodymyr Zelensky has urged his people to persevere in the face of Russian attacks as the country celebrates Christmas.\r\nIn a defiant speech on Saturday, he said: \"Freedom comes … [+2402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ABC6OnYourSide.com"
+            },
+            "author": "WSYX Staff",
+            "title": "What could power grid 'rotating outages' look like? - ABC6OnYourSide.com",
+            "description": "AEP Ohio spoke with WSYX about what those rotating outages could look like.",
+            "url": "https://abc6onyourside.com/news/local/power-electricity-grid-rotating-outages-blackout-aep-ohio-pjm",
+            "urlToImage": "https://abc6onyourside.com/resources/media/c7676158-d7b1-4846-b075-10ef30c37e96-large16x9_IMG_7354.jpg?1630510692176",
+            "publishedAt": "2022-12-24T22:44:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eric Levenson, Rebekah Riess, Wayne Sterling",
+            "title": "Rolling power outages in Tennessee causes NFL's Titans to delay game one hour - CNN",
+            "description": "The NFL's Tennessee Titans delayed its scheduled noon CT game by an hour due to temporary rolling blackouts in the region that stemmed from the winter storm and brutal cold.",
+            "url": "https://www.cnn.com/2022/12/24/us/tennessee-power-outages-titans/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221224103812-01-nashville-titans-121822.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-24T22:33:00Z",
+            "content": "The NFLs Tennessee Titans delayed its scheduled noon CT game by an hour due to temporary rolling blackouts in the region that stemmed from the winter storm and brutal cold.\r\nDue to the extreme weathe… [+5257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "NASA Explores a Winter Wonderland on Mars – Otherworldly Holiday Scene With Cube-Shaped Snow - SciTechDaily",
+            "description": "Cube-shaped snow, icy landscapes, and frost are all part of the Red Planet’s coldest season. When winter comes to Mars, the surface is transformed into a truly otherworldly holiday scene. Snow, ice, and frost accompany the season’s sub-zero temperatures. Some…",
+            "url": "https://scitechdaily.com/nasa-explores-a-winter-wonderland-on-mars-otherworldly-holiday-scene-with-cube-shaped-snow/",
+            "urlToImage": "https://scitechdaily.com/images/Winter-Wonderland-on-Mars.gif",
+            "publishedAt": "2022-12-24T22:25:39Z",
+            "content": "ByJet Propulsion LaboratoryDecember 24, 2022\r\nThe HiRISE camera aboard NASAs Mars Reconnaissance Orbiter captured these images of sand dunes covered by frost just after winter solstice. The frost her… [+8078 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cincy Jungle"
+            },
+            "author": "Jason Marcum",
+            "title": "Bengals vs Patriots score achieves NFL scorigami - Cincy Jungle",
+            "description": "The first game in NFL history to end in this score.",
+            "url": "https://www.cincyjungle.com/2022/12/24/23525589/bengals-vs-patriots-score-achieves-nfl-scorigami-new-england-cincinnati",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/svprdipY7Y39S1OA4D7HaOVkLbQ=/0x327:4552x2710/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24315971/usa_today_19677869.jpg",
+            "publishedAt": "2022-12-24T21:46:50Z",
+            "content": "It wasnt always pretty, but the Cincinnati Bengals did just enough to beat the New England Patriots by a final score of 22-18.\r\nIn the process, this game achieved scorigami!\r\nFor a refresher, a scori… [+787 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Nancy Dillon",
+            "title": "Tory Lanez Found Guilty in Shooting of Megan Thee Stallion - Rolling Stone",
+            "description": "A Los Angeles jury convicted Tory Lanez on all three counts Friday, and then pandemonium erupted in the courtroom",
+            "url": "https://www.rollingstone.com/music/music-news/tory-lanez-trial-verdict-megan-thee-stallion-shooting-1234652388/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/12/tory-meg-final-verdict.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2022-12-24T21:38:42Z",
+            "content": "Rapper Tory Lanez was found guilty Friday of shooting music superstar Megan Thee Stallion in both feet during an alcohol-fueled curbside confrontation in the predawn hours of July 12, 2020.\r\nAfter se… [+9126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Julian Borger, Pjotr Sauer",
+            "title": "Russian artillery barrages kill civilians in southern and eastern Ukraine - The Guardian",
+            "description": "City of Kherson suffers worst toll as Volodymyr Zelenskiy condemns killing ‘for intimidation and pleasure’",
+            "url": "https://www.theguardian.com/world/2022/dec/24/russia-launches-deadly-artillery-barrages-in-southern-and-eastern-ukraine-kherson",
+            "urlToImage": "https://i.guim.co.uk/img/media/bfa2f21c2775da5d373c37697df14211fb0dafda/623_345_4358_2616/master/4358.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e7531c51dac221f1d712fdb8d8775af",
+            "publishedAt": "2022-12-24T21:38:00Z",
+            "content": "Russia launched artillery barrages in southern and eastern Ukraine on Saturday, killing at least eight people and injuring dozens more.\r\nThe worst civilian toll was in the southern city of Kherson, w… [+4672 chars]"
+        }
+    ]
+}
